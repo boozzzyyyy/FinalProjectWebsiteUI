@@ -1,3 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Login","As user i able to be succesfully login","SUCCESS","2022-05-18T21:38:05.437+07:00[Asia/Bangkok]","0.0","2.86"
-"Logout","As user i able to be successfully logout","SUCCESS","2022-05-18T21:38:08.384+07:00[Asia/Bangkok]","0.0","1.25"
+"Login","As user i able to be succesfully login","SUCCESS","2022-05-20T19:44:11.073+07:00[Asia/Bangkok]","0.0","4.42"
+"Logout","As user i able to be successfully logout","SUCCESS","2022-05-20T19:44:15.592+07:00[Asia/Bangkok]","0.0","1.19"
+"Order Check Empty","As user i able to be check my order is empty","SUCCESS","2022-05-20T19:44:17.244+07:00[Asia/Bangkok]","0.0","1.36"

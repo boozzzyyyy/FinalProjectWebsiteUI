@@ -1,4 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Order Check Empty","As user i able to be check my order is empty","SUCCESS","2022-05-18T21:38:09.715+07:00[Asia/Bangkok]","0.0","0.75"
-"Order Check Not Empty","As user i able to be check my order is not empty","SUCCESS","2022-05-18T21:38:10.524+07:00[Asia/Bangkok]","0.0","0.23"
-"Register","As user i able to be succesfully register","SUCCESS","2022-05-18T21:38:10.949+07:00[Asia/Bangkok]","0.0","0.57"
+"Order Check Not Empty","As user i able to be check my order is not empty","SUCCESS","2022-05-20T19:44:18.687+07:00[Asia/Bangkok]","0.0","0.54"
+"Register","As user i able to be succesfully register","SUCCESS","2022-05-20T19:44:19.344+07:00[Asia/Bangkok]","0.0","0.33"
